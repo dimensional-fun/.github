@@ -1,7 +1,5 @@
 # Dimensional Fun
 
---- 
-
 We're a pair of developers creating cool things.
 
 ## Organization
