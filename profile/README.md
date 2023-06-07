@@ -10,6 +10,7 @@ This GitHub organization contains _most_ of our open-source code & projects.
   <summary>Organizations that we own</summary>
 
   - [**KyuDiscord**](https://github.com/KyuDiscord): Home of the Kyu Discord Bot.
+  - [**Keia**](https://github.com/keika-bot): Home of the Keia Music Bot
   - [**KeiryoJS**](https://github.com/KeiryoJS): A distributed nodejs discord library.
   - [**lavaclient**](https://github.com/lavaclient): Home of lavaclient & lavadeno.
   - [**dimensional-archive**](https://github.com/dimensional-archive): Old/archived projects.
@@ -26,6 +27,7 @@ This GitHub organization contains _most_ of our open-source code & projects.
   
   - **kyubot.app**
   - **dimensional.fun**
+  - **keia.one**
   
 </details>
 
